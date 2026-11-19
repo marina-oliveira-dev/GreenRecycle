@@ -414,11 +414,8 @@ fun GreenRecicleApp() {
                             textAlign = TextAlign.Justify,
                         )
                         Text(
-                            text = "Yuna Dias.\n" +
-                                    "Marina Martins.\n" +
-                                    "Enzo Rodrigues.\n" +
-                                    "Artur da Silva.\n" +
-                                    "Nicholas Haran.\n",
+                            text = "Projeto acadêmico desenvolvido em equipe por estudantes (5 pesseoas) de Ciência da Computação," +
+                                    " como projeto e desenvolvimento do semestre",
                             modifier = Modifier.padding(start = 10.dp),
                             fontFamily = FontFamily.SansSerif,
                             textAlign = TextAlign.Justify,
